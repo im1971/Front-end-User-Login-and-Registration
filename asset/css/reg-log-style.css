@@ -1,0 +1,52 @@
+.col-design,
+#login form#loginform{
+    background-color: lightblue;
+    margin-top: 20px;
+    margin-left: 0;
+    padding: 26px 24px;
+}
+
+/*Register field design*/
+.wrap-register .h2-design,
+#login .h2-design{
+    background-color: lightblue;
+    padding: 10px 0px;
+}
+
+.wrap-register .error{
+    color: red;
+    font-size: 14px;
+}
+
+.wrap-register .button-design,
+#login #loginform input#wp-submit,
+#login .button-design{
+    width: 100%;
+    padding: 0px;
+    font-size: 20px;
+    background-color: #000;
+    color: #fff;
+    margin-top: 10px;
+}
+
+.wrap-register input,
+#login form#loginform input {
+    padding: 0px 0px 0px 10px;
+    height: 40px;
+    border: 1px solid;
+    font-size: 15px;
+    width: 100%;
+    margin-bottom: 3px;
+}
+
+#login #loginform input#rememberme{
+    text-align: center;
+    vertical-align: middle;
+    width: 16px;
+    min-width: 16px;
+    height: 16px;
+    margin: -4px 4px 0 0;
+    cursor: pointer;
+}
+
+
